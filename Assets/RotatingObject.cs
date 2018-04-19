@@ -42,6 +42,7 @@ public class RotatingObject : MonoBehaviour {
 		//Update based on db level. It's a float 0-1f
 		float ro = reaktor.Output;
 
+		#region Starting animation
 		//Animation timing logic
 		if (ro > 0.1f) {
 			//Begin animating
@@ -72,8 +73,9 @@ public class RotatingObject : MonoBehaviour {
 				building.SetActive (false);
 			}
 		}
+		#endregion
 
-		//Check to end animation
+		#region Ending Animation
 		if (animationTimer > 0f) { 
 			animationTimer -= Time.deltaTime;
 
@@ -111,5 +113,6 @@ public class RotatingObject : MonoBehaviour {
 				rocks.scale = 0f;
 			}
 		}
+		#endregion
 	}
 }
