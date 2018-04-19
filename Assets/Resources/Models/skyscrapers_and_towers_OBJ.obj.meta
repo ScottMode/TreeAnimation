@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: ef9452ce821949d46bd031ba9537449a
+timeCreated: 1524156787
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aon_building
+    100002: berlin_tv_tower
+    100004: citicorp_center
+    100006: citigroup_center
+    100008: cn_tower
+    100010: cna_building
+    100012: europaturm
+    100014: grace_building
+    100016: ibm_plaza
+    100018: kiev_tv
+    100020: menara_kl
+    100022: oriental_perl_tower
+    100024: ostankino
+    100026: presidential_towers
+    100028: rameswaram_tv_tower
+    100030: riga_tv_tower
+    100032: shanghai_world_financial_center
+    100034: sky_tower
+    100036: //RootNode
+    100038: the_illini_center
+    100040: willis_tower
+    400000: aon_building
+    400002: berlin_tv_tower
+    400004: citicorp_center
+    400006: citigroup_center
+    400008: cn_tower
+    400010: cna_building
+    400012: europaturm
+    400014: grace_building
+    400016: ibm_plaza
+    400018: kiev_tv
+    400020: menara_kl
+    400022: oriental_perl_tower
+    400024: ostankino
+    400026: presidential_towers
+    400028: rameswaram_tv_tower
+    400030: riga_tv_tower
+    400032: shanghai_world_financial_center
+    400034: sky_tower
+    400036: //RootNode
+    400038: the_illini_center
+    400040: willis_tower
+    2300000: aon_building
+    2300002: berlin_tv_tower
+    2300004: citicorp_center
+    2300006: citigroup_center
+    2300008: cn_tower
+    2300010: cna_building
+    2300012: europaturm
+    2300014: grace_building
+    2300016: ibm_plaza
+    2300018: kiev_tv
+    2300020: menara_kl
+    2300022: oriental_perl_tower
+    2300024: ostankino
+    2300026: presidential_towers
+    2300028: rameswaram_tv_tower
+    2300030: riga_tv_tower
+    2300032: shanghai_world_financial_center
+    2300034: sky_tower
+    2300036: the_illini_center
+    2300038: willis_tower
+    3300000: aon_building
+    3300002: berlin_tv_tower
+    3300004: citicorp_center
+    3300006: citigroup_center
+    3300008: cn_tower
+    3300010: cna_building
+    3300012: europaturm
+    3300014: grace_building
+    3300016: ibm_plaza
+    3300018: kiev_tv
+    3300020: menara_kl
+    3300022: oriental_perl_tower
+    3300024: ostankino
+    3300026: presidential_towers
+    3300028: rameswaram_tv_tower
+    3300030: riga_tv_tower
+    3300032: shanghai_world_financial_center
+    3300034: sky_tower
+    3300036: the_illini_center
+    3300038: willis_tower
+    4300000: aon_building
+    4300002: berlin_tv_tower
+    4300004: citicorp_center
+    4300006: citigroup_center
+    4300008: cn_tower
+    4300010: cna_building
+    4300012: europaturm
+    4300014: grace_building
+    4300016: ibm_plaza
+    4300018: kiev_tv
+    4300020: menara_kl
+    4300022: oriental_perl_tower
+    4300024: ostankino
+    4300026: presidential_towers
+    4300028: rameswaram_tv_tower
+    4300030: riga_tv_tower
+    4300032: shanghai_world_financial_center
+    4300034: sky_tower
+    4300036: the_illini_center
+    4300038: willis_tower
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aon_buildingMat
+    second: {fileID: 2100000, guid: b80f4ee4cb672f642a7a69a276d3c051, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: berlin_tv_towerMat
+    second: {fileID: 2100000, guid: cfcb2de792262fe43aadc8da9a174a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: citicorp_centerMat
+    second: {fileID: 2100000, guid: 0c9dd3f5231062c43b934b985347bff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: citigroup_centerMat
+    second: {fileID: 2100000, guid: 84ae662337d9d1841b01e59770233f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cn_towerMat
+    second: {fileID: 2100000, guid: d7cc9e55bb1b7664f969ea6d7e2ee66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cna_buildingMat
+    second: {fileID: 2100000, guid: 3c2cf9817b31de34d91278f37153ddc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: europaturmMat
+    second: {fileID: 2100000, guid: 04b1d6ade02e69a4597ec027775e14e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grace_buildingMat
+    second: {fileID: 2100000, guid: 0046a2efd767beb4f96c9fb6f53bcd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ibm_plazaMat
+    second: {fileID: 2100000, guid: 27a45b220d4afcb4eaa5b888b04c2955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kiev_tvMat
+    second: {fileID: 2100000, guid: e80658347471c2c40b5da4c0e1a4c5af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: menara_klMat
+    second: {fileID: 2100000, guid: 61cd57439b44c834faf00448d3347567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oriental_perl_towerMat
+    second: {fileID: 2100000, guid: 6e44f9b8c14cdd04dbe43a2f6a304873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostankinoMat
+    second: {fileID: 2100000, guid: 6a32fbbec5a0fe94d92dda3a1a2c0426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: presidential_towersMat
+    second: {fileID: 2100000, guid: 6cdf20f1c419cd84198c44f5adf0a6a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rameswaram_tv_towerMat
+    second: {fileID: 2100000, guid: a96299b4bd9f3474d8ea73e91128849a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: riga_tv_towerMat
+    second: {fileID: 2100000, guid: 71f627880eab07d46aa139ae7d87f7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shanghai_world_financial_centerMat
+    second: {fileID: 2100000, guid: f58a8852f68c8824caa9648bc72e2927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sky_towerMat
+    second: {fileID: 2100000, guid: 8ab866eee6fdab34da962cbbe184482a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: the_illini_centerMat
+    second: {fileID: 2100000, guid: e210e49b3312cc94d90db77d44b4113e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: willis_towerMat
+    second: {fileID: 2100000, guid: 670c09642c8017c42b4d1ec3a26c092b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
