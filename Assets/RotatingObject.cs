@@ -56,14 +56,14 @@ public class RotatingObject : MonoBehaviour {
 				if (ro < 0.5f) {
 					leaves.scale = ro * 1f;
 				} else {
-					leaves.scale = ro * 3f;
+					leaves.scale = ro * 2.5f;
 				}
 
 			}
 
 			//Animation reaches peak db
-			if (ro >= 0.95f) {
-				animationTimer = 3f;
+			if (ro >= 0.95f && animationTimer == 0f) {
+				animationTimer = 6f;
 				//Set fixed leaves position
 				leaves.gameObject.GetComponent<TransformGear> ().position.min = -1;
 				rocks.scale = 0f;
@@ -80,7 +80,7 @@ public class RotatingObject : MonoBehaviour {
 			animationTimer -= Time.deltaTime;
 
 			//Slowly decrease scale of leaves
-			if (leaves.scale > 0) {
+			if (animationTimer < 3f && leaves.scale > 0) {
 				leaves.scale -= Time.deltaTime * 0.5f;
 
 				if (leaves.scale < 0f) { 
@@ -88,7 +88,9 @@ public class RotatingObject : MonoBehaviour {
 				}
 			}
 
-			rocks.scale += Time.deltaTime * 0.4f;
+			if (animationTimer < 3f) {
+				rocks.scale += Time.deltaTime * 0.4f;
+			}
 
 			if (animationTimer <= 0f) {
 				//Set leaves scale to zero and reset animation logic
